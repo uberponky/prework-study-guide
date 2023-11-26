@@ -17,7 +17,7 @@ function selectTopic() {
  } else if (randomTopic === 'JavaScript') {
    console.log("Let's study JavaScript!");
  } else {
-   console.log('Please try again!');
+   console.log('Please try again');
  }
 }
 
